@@ -14,5 +14,5 @@
 # Cele studiów:
 - nauka
 # Źródło wiedzy:
-- [text](https://docs.github.com/)
+- [github docs](https://docs.github.com/)
 - Ten opis to całe zdanie.
